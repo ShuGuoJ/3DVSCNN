@@ -116,3 +116,4 @@ This is a reproduction of *Hyperspectral Image Classification of Convolutional N
 ![img](img/KSC_sample_per_class_100_VSCNN.svg)
 
 ## Runing the code
+训练模型 `python CrossTrain.py --name xx --epoch xx --lr xx`
