@@ -41,9 +41,9 @@ This is a reproduction of *Hyperspectral Image Classification of Convolutional N
 
 学习曲线如下所示：
 
-![img](img/PaviaU_sample_per_class_10.svg)
-![img](img/PaviaU_sample_per_class_50.svg)
-![img](img/PaviaU_sample_per_class_100.svg)
+![img](img/PaviaU_sample_per_class_10_VSCNN.svg)
+![img](img/PaviaU_sample_per_class_50_VSCNN.svg)
+![img](img/PaviaU_sample_per_class_100_VSCNN.svg)
 
 在Salinas数据集上的准确率（%）如下表所示：
 
@@ -76,9 +76,9 @@ This is a reproduction of *Hyperspectral Image Classification of Convolutional N
 
 学习曲线如下所示：
 
-![img](img/Salinas_sample_per_class_10.svg)
-![img](img/Salinas_sample_per_class_50.svg)
-![img](img/Salinas_sample_per_class_100.svg)
+![img](img/Salinas_sample_per_class_10_VSCNN.svg)
+![img](img/Salinas_sample_per_class_50_VSCNN.svg)
+![img](img/Salinas_sample_per_class_100_VSCNN.svg)
 
 在KSC数据集上的准确率（%）如下表所示：
 
@@ -111,8 +111,8 @@ This is a reproduction of *Hyperspectral Image Classification of Convolutional N
 
 学习曲线如下所示：
 
-![img](img/KSC_sample_per_class_10.svg)
-![img](img/KSC_sample_per_class_50.svg)
-![img](img/KSC_sample_per_class_100.svg)
+![img](img/KSC_sample_per_class_10_VSCNN.svg)
+![img](img/KSC_sample_per_class_50_VSCNN.svg)
+![img](img/KSC_sample_per_class_100_VSCNN.svg)
 
 ## Runing the code
